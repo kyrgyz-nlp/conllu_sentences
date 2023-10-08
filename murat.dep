@@ -1,0 +1,903 @@
+# sent_id = murat:0
+# text = Эмне эле бактылуу болуп кудуңдап жүрөм десем, жазган кодум туура иштегенине сүйүнүп жатыптырмын.
+# text[eng] = 
+# labels = 
+"<Эмне>"
+	"эмне" adv
+	"эмне" cnjcoo
+	"эмне" prn itg nom
+	"эмне" prn itg nom
+		"э" cop aor p3 pl
+	"эмне" prn itg nom
+		"э" cop aor p3 sg
+"<эле>"
+	"эле" postadv
+	"эле" v tv imp p2 sg
+	"э" cop ifi p3 pl
+	"э" cop ifi p3 sg
+"<бактылуу>"
+	"бактылуу" adj
+	"бактылуу" adj
+		"э" cop aor p3 pl
+	"бактылуу" adj
+		"э" cop aor p3 sg
+	"бактылуу" adj subst nom
+	"бактылуу" adj subst nom
+		"э" cop aor p3 pl
+	"бактылуу" adj subst nom
+		"э" cop aor p3 sg
+"<болуп>"
+	"бол" v iv gna_perf
+	"бол" v iv prc_perf
+	"бол" vaux gna_perf
+	"бол" vaux prc_perf
+"<кудуңдап>"
+	"*кудуңдап"
+"<жүрөм>"
+	"жүр" v iv aor p1 sg
+	"жүр" vaux aor p1 sg
+"<десем>"
+	"де" v tv gna_cond p1 sg
+	"де" v tv prc_cond p1 sg
+"<,>"
+	"," cm
+"<жазган>"
+	"жаз" v tv ger_past nom
+	"жаз" v tv ger_past nom
+		"э" cop aor p3 pl
+	"жаз" v tv ger_past nom
+		"э" cop aor p3 sg
+	"жаз" v tv gpr
+	"жаз" v tv gpr subst nom
+	"жаз" v tv gpr subst nom
+		"э" cop aor p3 pl
+	"жаз" v tv gpr subst nom
+		"э" cop aor p3 sg
+	"жаз" v tv gpr_past
+	"жаз" v tv gpr_past subst nom
+	"жаз" v tv gpr_past subst nom
+		"э" cop aor p3 pl
+	"жаз" v tv gpr_past subst nom
+		"э" cop aor p3 sg
+	"жаз" v tv past p3 pl
+	"жаз" v tv past p3 sg
+	"жаз" v tv prc_past
+"<кодум>"
+	"код" n px1sg nom
+	"код" n px1sg nom
+		"э" cop aor p3 pl
+	"код" n px1sg nom
+		"э" cop aor p3 sg
+"<туура>"
+	"туура" adj
+	"туура" adj
+		"э" cop aor p3 pl
+	"туура" adj
+		"э" cop aor p3 sg
+	"туура" adj advl
+	"туура" adj subst nom
+	"туура" adj subst nom
+		"э" cop aor p3 pl
+	"туура" adj subst nom
+		"э" cop aor p3 sg
+	"туура" ij
+	"туура" n attr
+	"туура" n nom
+	"туура" n nom
+		"э" cop aor p3 pl
+	"туура" n nom
+		"э" cop aor p3 sg
+	"туура" v tv imp p2 sg
+"<иштегенине>"
+	"иште" v iv ger_past px3sp dat
+	"иште" v iv gpr subst px3sp dat
+	"иште" v iv gpr_past subst px3sp dat
+	"иште" v tv ger_past px3sp dat
+	"иште" v tv gpr subst px3sp dat
+	"иште" v tv gpr_past subst px3sp dat
+"<сүйүнүп>"
+	"сүйүн" v iv gna_perf
+	"сүйүн" v iv prc_perf
+"<жатыптырмын>"
+	"жат" v iv ifi evid p1 sg
+	"жат" vaux ifi evid p1 sg
+"<.>"
+	"." sent
+"<.>"
+	"." sent
+
+
+# sent_id = murat:1
+# text = Чалчактап өскөн бала жогорку окуу жайга тапшырганда жели чыгып бир топ жүдөп калды.
+# text[eng] = 
+# labels = 
+"<Чалчактап>"
+	"*Чалчактап"
+"<өскөн>"
+	"өс" v iv ger_past nom
+	"өс" v iv ger_past nom
+		"э" cop aor p3 pl
+	"өс" v iv ger_past nom
+		"э" cop aor p3 sg
+	"өс" v iv gpr
+	"өс" v iv gpr subst nom
+	"өс" v iv gpr subst nom
+		"э" cop aor p3 pl
+	"өс" v iv gpr subst nom
+		"э" cop aor p3 sg
+	"өс" v iv gpr_past
+	"өс" v iv gpr_past subst nom
+	"өс" v iv gpr_past subst nom
+		"э" cop aor p3 pl
+	"өс" v iv gpr_past subst nom
+		"э" cop aor p3 sg
+	"өс" v iv past p3 pl
+	"өс" v iv past p3 sg
+	"өс" v iv prc_past
+"<бала>"
+	"бала" n attr
+	"бала" n nom
+	"бала" n nom
+		"э" cop aor p3 pl
+	"бала" n nom
+		"э" cop aor p3 sg
+"<жогорку>"
+	"жогорку" adj
+	"жогорку" adj
+		"э" cop aor p3 pl
+	"жогорку" adj
+		"э" cop aor p3 sg
+	"жогорку" adj subst nom
+	"жогорку" adj subst nom
+		"э" cop aor p3 pl
+	"жогорку" adj subst nom
+		"э" cop aor p3 sg
+	"жогору" adv attr
+	"жогору" adv subst nom
+	"жогору" adv subst nom
+		"э" cop aor p3 pl
+	"жогору" adv subst nom
+		"э" cop aor p3 sg
+"<окуу>"
+	"окуу" n attr
+	"окуу" n nom
+	"окуу" n nom
+		"э" cop aor p3 pl
+	"окуу" n nom
+		"э" cop aor p3 sg
+	"оку" v iv ger nom
+	"оку" v iv ger nom
+		"э" cop aor p3 pl
+	"оку" v iv ger nom
+		"э" cop aor p3 sg
+	"оку" v tv ger nom
+	"оку" v tv ger nom
+		"э" cop aor p3 pl
+	"оку" v tv ger nom
+		"э" cop aor p3 sg
+"<жайга>"
+	"жай" adj subst dat
+	"жай" n dat
+"<тапшырганда>"
+	"тапшыр" v tv ger_past loc
+	"тапшыр" v tv ger_past loc
+		"э" cop aor p3 pl
+	"тапшыр" v tv ger_past loc
+		"э" cop aor p3 sg
+	"тапшыр" v tv gpr subst loc
+	"тапшыр" v tv gpr subst loc
+		"э" cop aor p3 pl
+	"тапшыр" v tv gpr subst loc
+		"э" cop aor p3 sg
+	"тапшыр" v tv gpr_past subst loc
+	"тапшыр" v tv gpr_past subst loc
+		"э" cop aor p3 pl
+	"тапшыр" v tv gpr_past subst loc
+		"э" cop aor p3 sg
+"<жели>"
+	"жел" n px3sp nom
+	"жел" n px3sp nom
+		"э" cop aor p3 pl
+	"жел" n px3sp nom
+		"э" cop aor p3 sg
+"<чыгып>"
+	"чык" v iv gna_perf
+	"чык" v iv prc_perf
+	"чык" vaux gna_perf
+	"чык" vaux prc_perf
+"<бир топ>"
+	"бир топ" det qnt
+"<жүдөп>"
+	"*жүдөп"
+"<калды>"
+	"кал" n acc
+	"кал" v iv ifi p3 pl
+	"кал" v iv ifi p3 sg
+	"кал" vaux ifi p3 pl
+	"кал" vaux ifi p3 sg
+"<.>"
+	"." sent
+"<.>"
+	"." sent
+
+
+# sent_id = murat:2
+# text = Анын чайпалып басып келе жатканын көрүп мас экен деп койгом
+# text[eng] = 
+# labels = 
+"<Анын>"
+	"ал" prn dem gen
+	"ал" prn pers p3 sg gen
+"<чайпалып>"
+	"чайпа" v tv pass gna_perf
+	"чайпа" v tv pass prc_perf
+"<басып>"
+	"бас" v iv gna_perf
+	"бас" v iv prc_perf
+	"бас" v tv gna_perf
+	"бас" v tv prc_perf
+"<келе>"
+	"кел" v iv prc_impf
+	"кел" vaux prc_impf
+"<жатканын>"
+	"жат" v iv ger_past px3sp acc
+	"жат" v iv gpr subst px3sp acc
+	"жат" v iv gpr_past subst px3sp acc
+	"жат" vaux ger_past px3sp acc
+	"жат" vaux gpr subst px3sp acc
+	"жат" vaux gpr_past subst px3sp acc
+"<көрүп>"
+	"көр" v tv gna_perf
+	"көр" v tv prc_perf
+"<мас>"
+	"мас" adj
+	"мас" adj
+		"э" cop aor p3 pl
+	"мас" adj
+		"э" cop aor p3 sg
+	"мас" adj advl
+	"мас" adj subst nom
+	"мас" adj subst nom
+		"э" cop aor p3 pl
+	"мас" adj subst nom
+		"э" cop aor p3 sg
+"<экен>"
+	"э" cop aor evid p3 pl
+	"э" cop aor evid p3 sg
+	"э" cop ger_past nom
+	"э" cop ger_past nom
+		"э" cop aor p3 pl
+	"э" cop ger_past nom
+		"э" cop aor p3 sg
+"<деп>"
+	"деп" cnjsub
+	"де" v tv gna_perf
+	"де" v tv prc_perf
+"<койгом>"
+	"*койгом"
+"<.>"
+	"." sent
+
+
+# sent_id = murat:3
+# text = Муну жеген дагы, жебеген дагы арманда калат!
+# text[eng] = 
+# labels = 
+"<Муну>"
+	"бул" prn dem acc
+"<жеген>"
+	"же" v tv ger_past nom
+	"же" v tv ger_past nom
+		"э" cop aor p3 pl
+	"же" v tv ger_past nom
+		"э" cop aor p3 sg
+	"же" v tv gpr
+	"же" v tv gpr subst nom
+	"же" v tv gpr subst nom
+		"э" cop aor p3 pl
+	"же" v tv gpr subst nom
+		"э" cop aor p3 sg
+	"же" v tv gpr_past
+	"же" v tv gpr_past subst nom
+	"же" v tv gpr_past subst nom
+		"э" cop aor p3 pl
+	"же" v tv gpr_past subst nom
+		"э" cop aor p3 sg
+	"же" v tv past p3 pl
+	"же" v tv past p3 sg
+	"же" v tv prc_past
+"<дагы>"
+	"дагы" adv
+	"дагы" cnjcoo
+	"дагы" n attr
+	"дагы" n nom
+	"дагы" n nom
+		"э" cop aor p3 pl
+	"дагы" n nom
+		"э" cop aor p3 sg
+	"дагы" post
+	"дагы" postadv
+"<,>"
+	"," cm
+"<жебеген>"
+	"же" v tv neg ger_past nom
+	"же" v tv neg ger_past nom
+		"э" cop aor p3 pl
+	"же" v tv neg ger_past nom
+		"э" cop aor p3 sg
+	"же" v tv neg gpr
+	"же" v tv neg gpr subst nom
+	"же" v tv neg gpr subst nom
+		"э" cop aor p3 pl
+	"же" v tv neg gpr subst nom
+		"э" cop aor p3 sg
+	"же" v tv neg gpr_past
+	"же" v tv neg gpr_past subst nom
+	"же" v tv neg gpr_past subst nom
+		"э" cop aor p3 pl
+	"же" v tv neg gpr_past subst nom
+		"э" cop aor p3 sg
+	"же" v tv neg past p3 pl
+	"же" v tv neg past p3 sg
+	"же" v tv neg prc_past
+"<дагы>"
+	"дагы" adv
+	"дагы" cnjcoo
+	"дагы" n attr
+	"дагы" n nom
+	"дагы" n nom
+		"э" cop aor p3 pl
+	"дагы" n nom
+		"э" cop aor p3 sg
+	"дагы" post
+	"дагы" postadv
+"<арманда>"
+	"арман" n loc
+	"арман" n loc
+		"э" cop aor p3 pl
+	"арман" n loc
+		"э" cop aor p3 sg
+"<калат>"
+	"кал" v iv aor p3 pl
+	"кал" v iv aor p3 sg
+	"кал" v iv prc_irre
+	"кал" vaux aor p3 pl
+	"кал" vaux aor p3 sg
+	"кал" vaux prc_irre
+"<!>"
+	"!" sent
+"<.>"
+	"." sent
+
+
+# sent_id = murat:4
+# text = Татыктуу адам биринчи орун алганы сонун болду, ээ?
+# text[eng] = 
+# labels = 
+"<Татыктуу>"
+	"татыктуу" adj
+	"татыктуу" adj
+		"э" cop aor p3 pl
+	"татыктуу" adj
+		"э" cop aor p3 sg
+	"татыктуу" adj subst nom
+	"татыктуу" adj subst nom
+		"э" cop aor p3 pl
+	"татыктуу" adj subst nom
+		"э" cop aor p3 sg
+	"татыктуу" cnjcoo
+"<адам>"
+	"адам" n attr
+	"адам" n nom
+	"адам" n nom
+		"э" cop aor p3 pl
+	"адам" n nom
+		"э" cop aor p3 sg
+"<биринчи>"
+	"биринчи" adv
+	"бир" num ord
+	"бир" num ord subst nom
+	"бир" num ord subst nom
+		"э" cop aor p3 pl
+	"бир" num ord subst nom
+		"э" cop aor p3 sg
+	"бир" num subst px3sp nom
+		"чы" qst
+	"бир" num subst px3sp nom
+		"э" cop aor p3 pl
+			"чы" emph
+	"бир" num subst px3sp nom
+		"э" cop aor p3 pl
+			"чы" qst
+	"бир" num subst px3sp nom
+		"э" cop aor p3 sg
+			"чы" emph
+	"бир" num subst px3sp nom
+		"э" cop aor p3 sg
+			"чы" qst
+"<орун>"
+	"орун" n attr
+	"орун" n nom
+	"орун" n nom
+		"э" cop aor p3 pl
+	"орун" n nom
+		"э" cop aor p3 sg
+"<алганы>"
+	"ал" v tv ger_past px3sp nom
+	"ал" v tv ger_past px3sp nom
+		"э" cop aor p3 pl
+	"ал" v tv ger_past px3sp nom
+		"э" cop aor p3 sg
+	"ал" v tv gna_after
+	"ал" v tv gpr subst px3sp nom
+	"ал" v tv gpr subst px3sp nom
+		"э" cop aor p3 pl
+	"ал" v tv gpr subst px3sp nom
+		"э" cop aor p3 sg
+	"ал" v tv gpr_past subst px3sp nom
+	"ал" v tv gpr_past subst px3sp nom
+		"э" cop aor p3 pl
+	"ал" v tv gpr_past subst px3sp nom
+		"э" cop aor p3 sg
+	"ал" v tv prc_plan
+	"ал" vaux ger_past px3sp nom
+	"ал" vaux ger_past px3sp nom
+		"э" cop aor p3 pl
+	"ал" vaux ger_past px3sp nom
+		"э" cop aor p3 sg
+	"ал" vaux gna_after
+	"ал" vaux gpr subst px3sp nom
+	"ал" vaux gpr subst px3sp nom
+		"э" cop aor p3 pl
+	"ал" vaux gpr subst px3sp nom
+		"э" cop aor p3 sg
+	"ал" vaux gpr_past subst px3sp nom
+	"ал" vaux gpr_past subst px3sp nom
+		"э" cop aor p3 pl
+	"ал" vaux gpr_past subst px3sp nom
+		"э" cop aor p3 sg
+	"ал" vaux prc_plan
+"<сонун>"
+	"сонун" adj
+	"сонун" adj
+		"э" cop aor p3 pl
+	"сонун" adj
+		"э" cop aor p3 sg
+	"сонун" adj advl
+	"сонун" adj subst nom
+	"сонун" adj subst nom
+		"э" cop aor p3 pl
+	"сонун" adj subst nom
+		"э" cop aor p3 sg
+"<болду>"
+	"бол" v iv ifi p3 pl
+	"бол" v iv ifi p3 sg
+	"бол" vaux ifi p3 pl
+	"бол" vaux ifi p3 sg
+"<,>"
+	"," cm
+"<ээ>"
+	"ээ" n attr
+	"ээ" n nom
+	"ээ" n nom
+		"э" cop aor p3 pl
+	"ээ" n nom
+		"э" cop aor p3 sg
+"<?>"
+	"?" sent
+"<.>"
+	"." sent
+
+
+# sent_id = murat:5
+# text = Кырк жаш белгиленбейт деп, туулган күнүн майрамдабай кутулуп кетти.
+# text[eng] = 
+# labels = 
+"<Кырк>"
+	"кырк" num
+	"кырк" num subst nom
+	"кырк" num subst nom
+		"э" cop aor p3 pl
+	"кырк" num subst nom
+		"э" cop aor p3 sg
+	"кырк" v tv imp p2 sg
+"<жаш>"
+	"жаш" adj
+	"жаш" adj
+		"э" cop aor p3 pl
+	"жаш" adj
+		"э" cop aor p3 sg
+	"жаш" adj subst nom
+	"жаш" adj subst nom
+		"э" cop aor p3 pl
+	"жаш" adj subst nom
+		"э" cop aor p3 sg
+	"жаш" n attr
+	"жаш" n nom
+	"жаш" n nom
+		"э" cop aor p3 pl
+	"жаш" n nom
+		"э" cop aor p3 sg
+"<белгиленбейт>"
+	"белгиле" v tv pass neg aor p3 pl
+	"белгиле" v tv pass neg aor p3 sg
+	"белгиле" v tv pass neg prc_irre
+"<деп>"
+	"деп" cnjsub
+	"де" v tv gna_perf
+	"де" v tv prc_perf
+"<,>"
+	"," cm
+"<туулган>"
+	"туулган" adj
+	"туулган" adj
+		"э" cop aor p3 pl
+	"туулган" adj
+		"э" cop aor p3 sg
+	"туулган" adj subst nom
+	"туулган" adj subst nom
+		"э" cop aor p3 pl
+	"туулган" adj subst nom
+		"э" cop aor p3 sg
+	"туу" v tv pass ger_past nom
+	"туу" v tv pass ger_past nom
+		"э" cop aor p3 pl
+	"туу" v tv pass ger_past nom
+		"э" cop aor p3 sg
+	"туу" v tv pass gpr
+	"туу" v tv pass gpr subst nom
+	"туу" v tv pass gpr subst nom
+		"э" cop aor p3 pl
+	"туу" v tv pass gpr subst nom
+		"э" cop aor p3 sg
+	"туу" v tv pass gpr_past
+	"туу" v tv pass gpr_past subst nom
+	"туу" v tv pass gpr_past subst nom
+		"э" cop aor p3 pl
+	"туу" v tv pass gpr_past subst nom
+		"э" cop aor p3 sg
+	"туу" v tv pass past p3 pl
+	"туу" v tv pass past p3 sg
+	"туу" v tv pass prc_past
+"<күнүн>"
+	"күн" n px3sp acc
+"<майрамдабай>"
+	"майрамда" v iv neg gna_perf
+	"майрамда" v iv neg prc_impf
+	"майрамда" v iv neg prc_perf
+	"майрамда" v tv neg gna_perf
+	"майрамда" v tv neg prc_impf
+	"майрамда" v tv neg prc_perf
+"<кутулуп>"
+	"кутул" v tv gna_perf
+	"кутул" v tv prc_perf
+"<кетти>"
+	"кет" v iv ifi p3 pl
+	"кет" v iv ifi p3 sg
+	"кет" vaux ifi p3 pl
+	"кет" vaux ifi p3 sg
+"<.>"
+	"." sent
+"<.>"
+	"." sent
+
+
+# sent_id = murat:6
+# text = Уулум анда-санда гитарасын алып дүңгүрөтүп чертип калат.
+# text[eng] = 
+# labels = 
+"<Уулум>"
+	"уул" n px1sg nom
+	"уул" n px1sg nom
+		"э" cop aor p3 pl
+	"уул" n px1sg nom
+		"э" cop aor p3 sg
+"<анда-санда>"
+	"анда-санда" adv
+"<гитарасын>"
+	"гитара" n px3sp acc
+"<алып>"
+	"ал" v tv gna_perf
+	"ал" v tv prc_perf
+	"ал" vaux gna_perf
+	"ал" vaux prc_perf
+"<дүңгүрөтүп>"
+	"*дүңгүрөтүп"
+"<чертип>"
+	"*чертип"
+"<калат>"
+	"кал" v iv aor p3 pl
+	"кал" v iv aor p3 sg
+	"кал" v iv prc_irre
+	"кал" vaux aor p3 pl
+	"кал" vaux aor p3 sg
+	"кал" vaux prc_irre
+"<.>"
+	"." sent
+"<.>"
+	"." sent
+
+
+# sent_id = murat:7
+# text = Жайы бою эс алган жаным мындай оор ишке көнбөй калыптыр.
+# text[eng] = 
+# labels = 
+"<Жайы>"
+	"жай" adj subst px3sp nom
+	"жай" adj subst px3sp nom
+		"э" cop aor p3 pl
+	"жай" adj subst px3sp nom
+		"э" cop aor p3 sg
+	"жай" n px3sp nom
+	"жай" n px3sp nom
+		"э" cop aor p3 pl
+	"жай" n px3sp nom
+		"э" cop aor p3 sg
+"<бою>"
+	"бой" n px3sp nom
+	"бой" n px3sp nom
+		"э" cop aor p3 pl
+	"бой" n px3sp nom
+		"э" cop aor p3 sg
+	"бою" post
+"<эс>"
+	"эс" n attr
+	"эс" n nom
+	"эс" n nom
+		"э" cop aor p3 pl
+	"эс" n nom
+		"э" cop aor p3 sg
+"<алган>"
+	"ал" v tv ger_past nom
+	"ал" v tv ger_past nom
+		"э" cop aor p3 pl
+	"ал" v tv ger_past nom
+		"э" cop aor p3 sg
+	"ал" v tv gpr
+	"ал" v tv gpr subst nom
+	"ал" v tv gpr subst nom
+		"э" cop aor p3 pl
+	"ал" v tv gpr subst nom
+		"э" cop aor p3 sg
+	"ал" v tv gpr_past
+	"ал" v tv gpr_past subst nom
+	"ал" v tv gpr_past subst nom
+		"э" cop aor p3 pl
+	"ал" v tv gpr_past subst nom
+		"э" cop aor p3 sg
+	"ал" v tv past p3 pl
+	"ал" v tv past p3 sg
+	"ал" v tv prc_past
+	"ал" vaux ger_past nom
+	"ал" vaux ger_past nom
+		"э" cop aor p3 pl
+	"ал" vaux ger_past nom
+		"э" cop aor p3 sg
+	"ал" vaux gpr
+	"ал" vaux gpr subst nom
+	"ал" vaux gpr subst nom
+		"э" cop aor p3 pl
+	"ал" vaux gpr subst nom
+		"э" cop aor p3 sg
+	"ал" vaux gpr_past
+	"ал" vaux gpr_past subst nom
+	"ал" vaux gpr_past subst nom
+		"э" cop aor p3 pl
+	"ал" vaux gpr_past subst nom
+		"э" cop aor p3 sg
+	"ал" vaux past p3 pl
+	"ал" vaux past p3 sg
+	"ал" vaux prc_past
+"<жаным>"
+	"жан" n px1sg nom
+	"жан" n px1sg nom
+		"э" cop aor p3 pl
+	"жан" n px1sg nom
+		"э" cop aor p3 sg
+"<мындай>"
+	"бул" prn dem adv
+	"бул" prn dem adv
+		"э" cop aor p3 pl
+	"бул" prn dem adv
+		"э" cop aor p3 sg
+	"бул" prn dem sim nom
+	"бул" prn dem sim nom
+		"э" cop aor p3 pl
+	"бул" prn dem sim nom
+		"э" cop aor p3 sg
+	"мындай" adj
+	"мындай" adj
+		"э" cop aor p3 pl
+	"мындай" adj
+		"э" cop aor p3 sg
+	"мындай" adj advl
+	"мындай" adj subst nom
+	"мындай" adj subst nom
+		"э" cop aor p3 pl
+	"мындай" adj subst nom
+		"э" cop aor p3 sg
+	"мындай" adv
+	"мындай" n attr
+	"мындай" n nom
+	"мындай" n nom
+		"э" cop aor p3 pl
+	"мындай" n nom
+		"э" cop aor p3 sg
+"<оор>"
+	"оор" adj
+	"оор" adj
+		"э" cop aor p3 pl
+	"оор" adj
+		"э" cop aor p3 sg
+	"оор" adj advl
+	"оор" adj subst nom
+	"оор" adj subst nom
+		"э" cop aor p3 pl
+	"оор" adj subst nom
+		"э" cop aor p3 sg
+"<ишке>"
+	"иш" n dat
+"<көнбөй>"
+	"көн" v tv neg gna_perf
+	"көн" v tv neg prc_impf
+	"көн" v tv neg prc_perf
+"<калыптыр>"
+	"калып" n nom
+		"э" cop aor p3 pl
+			"дыр" mod_ind
+	"калып" n nom
+		"э" cop aor p3 sg
+			"дыр" mod_ind
+	"кал" v iv ifi evid p3 pl
+	"кал" v iv ifi evid p3 sg
+	"кал" vaux ifi evid p3 pl
+	"кал" vaux ifi evid p3 sg
+"<.>"
+	"." sent
+"<.>"
+	"." sent
+
+
+# sent_id = murat:8
+# text = Ал шашпай иштеп көнүп алгандыктан жаңы тайпанын күүсүнө чыдабай кетти.
+# text[eng] = 
+# labels = 
+"<Ал>"
+	"ал" det dem
+	"ал" n attr
+	"ал" n nom
+	"ал" n nom
+		"э" cop aor p3 pl
+	"ал" n nom
+		"э" cop aor p3 sg
+	"ал" prn dem nom
+	"ал" prn dem nom
+		"э" cop aor p3 pl
+	"ал" prn dem nom
+		"э" cop aor p3 sg
+	"ал" prn pers p3 sg nom
+	"ал" prn pers p3 sg nom
+		"э" cop aor p3 pl
+	"ал" prn pers p3 sg nom
+		"э" cop aor p3 sg
+	"ал" v tv imp p2 sg
+	"ал" vaux imp p2 sg
+"<шашпай>"
+	"шаш" v iv neg gna_perf
+	"шаш" v iv neg prc_impf
+	"шаш" v iv neg prc_perf
+"<иштеп>"
+	"иште" v iv gna_perf
+	"иште" v iv prc_perf
+	"иште" v tv gna_perf
+	"иште" v tv prc_perf
+"<көнүп>"
+	"көн" v tv gna_perf
+	"көн" v tv prc_perf
+"<алгандыктан>"
+	"ал" v tv ger_perf abl
+	"ал" v tv ger_perf abl
+		"э" cop aor p3 pl
+	"ал" v tv ger_perf abl
+		"э" cop aor p3 sg
+	"ал" vaux ger_perf abl
+	"ал" vaux ger_perf abl
+		"э" cop aor p3 pl
+	"ал" vaux ger_perf abl
+		"э" cop aor p3 sg
+"<жаңы>"
+	"жаңы" adj
+	"жаңы" adj
+		"э" cop aor p3 pl
+	"жаңы" adj
+		"э" cop aor p3 sg
+	"жаңы" adj advl
+	"жаңы" adj subst nom
+	"жаңы" adj subst nom
+		"э" cop aor p3 pl
+	"жаңы" adj subst nom
+		"э" cop aor p3 sg
+"<тайпанын>"
+	"*тайпанын"
+"<күүсүнө>"
+	"күү" n px3sp dat
+"<чыдабай>"
+	"чыда" v iv neg gna_perf
+	"чыда" v iv neg prc_impf
+	"чыда" v iv neg prc_perf
+	"чыда" v tv neg gna_perf
+	"чыда" v tv neg prc_impf
+	"чыда" v tv neg prc_perf
+"<кетти>"
+	"кет" v iv ifi p3 pl
+	"кет" v iv ifi p3 sg
+	"кет" vaux ifi p3 pl
+	"кет" vaux ifi p3 sg
+"<.>"
+	"." sent
+"<.>"
+	"." sent
+
+
+# sent_id = murat:9
+# text = Досум өзү илимпоздор менен аралашып иштегенди кыялданып жүрөт.
+# text[eng] = 
+# labels = 
+"<Досум>"
+	"Дос" np ant m px1sg nom
+	"Дос" np ant m px1sg nom
+		"э" cop aor p3 pl
+	"Дос" np ant m px1sg nom
+		"э" cop aor p3 sg
+	"дос" adj subst px1sg nom
+	"дос" adj subst px1sg nom
+		"э" cop aor p3 pl
+	"дос" adj subst px1sg nom
+		"э" cop aor p3 sg
+	"дос" n px1sg nom
+	"дос" n px1sg nom
+		"э" cop aor p3 pl
+	"дос" n px1sg nom
+		"э" cop aor p3 sg
+"<өзү>"
+	"өзү" adv
+	"өз" prn ref px3sp nom
+	"өз" prn ref px3sp nom
+		"э" cop aor p3 pl
+	"өз" prn ref px3sp nom
+		"э" cop aor p3 sg
+"<илимпоздор>"
+	"илимпоз" n pl nom
+	"илимпоз" n pl nom
+		"э" cop aor p3 pl
+	"илимпоз" n pl nom
+		"э" cop aor p3 sg
+"<менен>"
+	"менен" cnjcoo
+	"менен" post
+"<аралашып>"
+	"аралаш" v iv gna_perf
+	"аралаш" v iv prc_perf
+	"арала" v tv coop gna_perf
+	"арала" v tv coop prc_perf
+"<иштегенди>"
+	"иште" v iv ger_past acc
+	"иште" v iv gpr subst acc
+	"иште" v iv gpr_past subst acc
+	"иште" v tv ger_past acc
+	"иште" v tv gpr subst acc
+	"иште" v tv gpr_past subst acc
+"<кыялданып>"
+	"кыялдан" v iv gna_perf
+	"кыялдан" v iv prc_perf
+"<жүрөт>"
+	"жүр" v iv aor p3 pl
+	"жүр" v iv aor p3 sg
+	"жүр" v iv prc_irre
+	"жүр" vaux aor p3 pl
+	"жүр" vaux aor p3 sg
+	"жүр" vaux prc_irre
+"<.>"
+	"." sent
+"<.>"
+	"." sent
